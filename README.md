@@ -71,3 +71,8 @@ a Linux desktop.
 
 Finally, cleanup your README.md to document the application in your repo! Users
 of your repo want to see the application, not instructions on how to setup the repo :)
+
+## Inspiration
+
+Inspriation to make this particular template repository comes from conversation
+with my friend [Sanjay Bhangar](https://twitter.com/sanjaybhangar).
