@@ -1,0 +1,10 @@
+# Baseline packages to get X working
+dbus-x11
+xorg
+xubuntu-icon-theme
+
+# Desktop environment so people can navigate
+xfce4
+
+# Everyone needs a browser
+firefox
