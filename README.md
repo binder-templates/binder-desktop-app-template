@@ -9,7 +9,7 @@ from this template repository!
 Uses [jupyter-remote-desktop-proxy](https://github.com/jupyterhub/jupyter-remote-desktop-proxy)
 to work.
 
-## How to use this reop
+## How to use this repo
 
 ### 1. Create a new repo using this as a template
 
