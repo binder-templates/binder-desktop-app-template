@@ -5,4 +5,4 @@ dependencies:
   - websockify
   - pip
   - pip:
-      - jupyter-desktop-server
+      - jupyter-remote-desktop-proxy
